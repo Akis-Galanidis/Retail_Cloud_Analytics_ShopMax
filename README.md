@@ -7,7 +7,7 @@ This repository presents a comprehensive analytics and infrastructure evaluation
 - Train and compare predictive models to forecast sales
 
 ## 🧠 Key Components
-- 📑 **Report**: Business-focused evaluation and modeling results ([see PDF](./report/ShopMax_Cloud_Analytics_Evaluation.pdf))
+- 📑 **Report**: Business-focused evaluation and modeling results
 - ⚙️ **Modeling**: Random Forest and Linear Regression models to predict retail sales
 - 🧪 **Insights**: 
   - Region-wise performance
