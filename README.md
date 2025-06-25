@@ -9,7 +9,7 @@ This repository presents a comprehensive analytics and infrastructure evaluation
 - Train and compare predictive models to forecast sales
 
 ## 🧠 Key Components
-- 📑 **Report**: Business-focused evaluation and modeling results ([see PDF](./Big Data Platform Evaluation for a Retail Use Case.pdf)
+- 📑 **Report**: Business-focused evaluation and modeling results ([see PDF](./report/Big Data Platform Evaluation for a Retail Use Case.pdf))
 - ⚙️ **Modeling**: Random Forest and Linear Regression models to predict retail sales
 - 🧪 **Insights**: 
   - Region-wise performance
