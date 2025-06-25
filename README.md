@@ -1,3 +1,5 @@
+# Retail Cloud Analytics – ShopMax Case Study
+
 This repository presents a comprehensive analytics and infrastructure evaluation conducted for a fictional e-commerce company, ShopMax. The project assesses the suitability of AWS Redshift and Google BigQuery for migrating ShopMax’s on-premises retail data warehouse to the cloud.
 
 ## 📊 Objectives
@@ -7,7 +9,7 @@ This repository presents a comprehensive analytics and infrastructure evaluation
 - Train and compare predictive models to forecast sales
 
 ## 🧠 Key Components
-- 📑 **Report**: Business-focused evaluation and modeling results
+- 📑 **Report**: Business-focused evaluation and modeling results ([see PDF](./ShopMax_Cloud_Analytics_Evaluation.pdf))
 - ⚙️ **Modeling**: Random Forest and Linear Regression models to predict retail sales
 - 🧪 **Insights**: 
   - Region-wise performance
